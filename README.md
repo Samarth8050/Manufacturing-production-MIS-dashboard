@@ -195,4 +195,4 @@ Power BI is connected directly to the SQL database, so the dashboard reads from 
 
 ## 13. Author
 
-*Your Name* – Data Analyst | *your-email@example.com* | *LinkedIn / GitHub link*
+*Samarth Mirajkar* – Fresher Data Analyst
